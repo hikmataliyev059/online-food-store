@@ -1,0 +1,17 @@
+﻿.idea/
+.vs/
+*.DotSettings.user
+
+*.user
+*.suo
+*.userprefs
+
+*.pdb
+*.obj
+bin/
+obj/
+
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
